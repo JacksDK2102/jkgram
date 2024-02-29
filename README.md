@@ -1,10 +1,9 @@
 # Link
 https://jkgram.vercel.app
 
-
 # Introduction
 Explore social media with this user-friendly platform that has a nice look and lots of features. Easily create and explore posts, and enjoy a strong authentication system and quick data fetching using React Query for a smooth user experience.
-This Social Media App is build using React + TypeScript + Vite
+This Social Media App is build using React + TypeScript + Vite.
 
 ## Tech Stack
 - React.js
@@ -41,3 +40,6 @@ VITE_APPWRITE_POST_COLLECTION_ID=
 VITE_APPWRITE_SAVES_COLLECTION_ID=  
 
 Replace the placeholder values with your actual Appwrite credentials. You can obtain these credentials by signing up on the Appwrite website.
+
+## Const
+- It does not have the Following and Followers function inside the Application. So, all the Followers and Following number inside the Profile are dummies number.
